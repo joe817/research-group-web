@@ -14,13 +14,6 @@
     webpage: "https://bluejoe2008.github.io"
     image: /img/people/shenzhihong.jpg
 
-王学志:
-    display_name: "王学志"
-    role: faculty
-    bio: 研究员
-    webpage: "http://www.cnic.cas.cn/yjsjy/dsjj/index_64194.html?json=http://sourcedb.cnic.cas.cn/zw/zjrc/dsxx/201803/t20180307_4970780.json"
-    image: /img/people/wxz.jpg
-
 杜一:
     display_name: "杜一"
     webpage: "http://yiducn.github.io/cv/index_zh.html"
@@ -49,31 +42,17 @@
     bio: staff
 
 #学生
-赵江华:
-    display_name: "赵江华"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+吴章生:
+    display_name: "吴章生"
     role: doctor_student
-    bio: 2016级博士研究生(在职)
+    bio: 2017级博士研究生(在职)
 
 王卫军:
     display_name: "王卫军"
     role: doctor_student
     bio: 2017级博士研究生(在职)
 
-吴章生:
-    display_name: "吴章生"
-    role: doctor_student
-    bio: 2017级博士研究生(在职)
 
-ali:
-    display_name: "ali"
-    role: doctor_student
-    bio: 2018级博士研究生
-
-周小华:
-    display_name: "周小华"
-    role: doctor_student
-    bio: 2018级博士研究生(在职)
 蒲军:
     display_name: "蒲军"
     role: master student
@@ -84,10 +63,6 @@ ali:
     role: master student
     bio: 2016级硕士研究生
 
-王玉龙:
-    display_name: "王玉龙"
-    role: master_student
-    bio: 2016级硕士研究生
 
 赵子豪:
     display_name: "赵子豪"
@@ -99,10 +74,6 @@ ali:
     role: master_student
     bio: 2017级硕士研究生
 
-郭世晨:
-    display_name: "郭世晨"
-    role: master_student
-    bio: 2017级硕士研究生
 
 #访问、实习学生
 #TODO
