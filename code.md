@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code
+title: 代码与工具
 ---
 This is an example of an additional page you could add to the site (and its navigation).
 

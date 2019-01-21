@@ -5,11 +5,12 @@ all: build
 
 BIBBLE = bibble
 
-_includes/pubs.html: bib/pubs.bib bib/publications.tmpl
+_includes/pubs_conference.html: bib/pubs_conference.bib bib/publications.tmpl
 	mkdir -p _includes
 	$(BIBBLE) $+ > $@
 
-build: _includes/pubs.html
+
+build: _includes/pubs_conference.html
 	jekyll build
 
 # you can configure these at the shell, e.g.:
@@ -22,6 +23,9 @@ serve: _includes/pubs.html
 
 clean:
 	$(RM) -r _site _includes/pubs.html
+	$(RM) -r _site _includes/pubs_journal.html
+	$(RM) -r _site _includes/pubs_conference.html
+	$(RM) -r _site _includes/pubs_patent.html
 
 DEPLOY_HOST ?= yourwebpage.com
 DEPLOY_PATH ?= www/

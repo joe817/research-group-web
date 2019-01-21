@@ -11,11 +11,16 @@
     display_name: "沈志宏"
     role: faculty
     bio: 研究员，大数据部副主任
+    webpage: "https://bluejoe2008.github.io"
+    image: /img/people/shenzhihong.jpg
 
 王学志:
     display_name: "王学志"
     role: faculty
     bio: 研究员
+    webpage: "http://www.cnic.cas.cn/yjsjy/dsjj/index_64194.html?json=http://sourcedb.cnic.cas.cn/zw/zjrc/dsxx/201803/t20180307_4970780.json"
+    image: /img/people/wxz.jpg
+
 杜一:
     display_name: "杜一"
     webpage: "http://yiducn.github.io/cv/index_zh.html"
