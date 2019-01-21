@@ -1,19 +1,19 @@
 ---
-title: Logo Project
+title: 基于多源数据的食源性疾病实时预警技术体系研究
 
-notitle: true
+notitle: false
 
 description: |
   This project has a sweet logo!
 
 people:
-  - storm
+  - 杜一
   - grad-b
   - ugrad-c
 
 layout: project
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+last-updated: 2018-04-11
 ---
 
 Some preliminary text.

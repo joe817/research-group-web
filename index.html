@@ -2,33 +2,16 @@
 layout: default
 title: Home
 notitle: true
-
-# groups of columns of {roles: list, width: num, image: bool}
-role-tables:
-- - roles: [faculty, postdoc, staff]
-    width: 4
-    image: true
-  - roles: [grad]
-    width: 8
-    image: true
-- - roles: [collab, ugrad, ugrad-alum]
-    width: 5
-    image: false
-  - roles: [alum]
-    width: 7
-    image: false
-
 ---
 
 <div class="jumbotron">
     <p>
-        The <b>Awesome Research Group</b> at <b>Example U</b> does all sorts of
-        research. Here is a place where we tell you exactly what that is!
+        <b>社会大数据与知识工程研究组</b>是中国科学院计算机网络信息中心大数据应用发展部的科研团队。
     </p>
 </div>
 
 <section>
-    <h2>News</h2>
+    <h2>新闻</h2>
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
             {% include news-item.html item=post %}
@@ -44,7 +27,7 @@ role-tables:
 </section>
 
 <section>
-    <h2>Research</h2>
+    <h2>科研项目</h2>
     <div class="card-columns">
         {% comment %}
         Sort the projects by date, putting those without dates last
@@ -59,7 +42,7 @@ role-tables:
     </div>
 </section>
 
-<div id="people">
+<!-- <div id="people">
     <h2>People</h2>
     {% for role-table in page.role-tables %}
         <section class="people row justify-content-between">
@@ -72,4 +55,4 @@ role-tables:
             {% endfor %}
         </section>
     {% endfor %}
-</div>
+</div> -->

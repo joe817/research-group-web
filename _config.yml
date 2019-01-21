@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: 社会大数据与知识工程研究组
+url: http://www.dviz.cn/sbdkg
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -15,14 +15,10 @@ roles:
     name: Faculty
   - key: staff
     name: Staff
-  - key: postdoc
-    name: Researchers
-  - key: grad
-    name: Graduate Students
-  - key: ugrad
-    name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
+  - key: doctor student
+    name: Doctor Student
+  - key: master student
+    name: Master Student
   - key: collab
     name: Collaborators
   - key: alum
@@ -41,13 +37,13 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
+  - title: 主页
     link: /
-  - title: People
-    link: /#people
-  - title: Research
+  - title: 人员
+    link: /people.html
+  - title: 项目
     link: /research.html
-  - title: Publications
+  - title: 成果
     link: /publications.html
-  - title: Code
+  - title: 代码
     link: /code.html

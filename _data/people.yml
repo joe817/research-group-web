@@ -1,161 +1,114 @@
 
-prof-a:
-    display_name: "Prof A"
+#员工
+周园春:
+    display_name: "周园春"
+    webpage: "http://www.escience.cn/people/zyc/index.html"
+    image: /img/people/zyc.JPG
     role: faculty
+    bio: 研究员，中科院网络信息中心主任助理，大数据部主任
 
-prof-b:
-    display_name: "Prof B"
+沈志宏:
+    display_name: "沈志宏"
     role: faculty
+    bio: 研究员，大数据部副主任
 
-prof-c:
-    display_name: "Prof C"
+王学志:
+    display_name: "王学志"
     role: faculty
+    bio: 研究员
+杜一:
+    display_name: "杜一"
+    webpage: "http://yiducn.github.io/cv/index_zh.html"
+    image: /img/people/yidu.png
+    github: yiducn
+    role: faculty
+    bio: 副研究员
 
-profx:
-    display_name: "Professor X"
+#员工
+崔文娟:
+    display_name: "崔文娟"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+    bio: 数据挖掘
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+朱小杰:
+    display_name: "朱小杰"
+    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    role: staff
+    bio: staff
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+王华进:
+    display_name: "王华进"
+    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    role: staff
+    bio: staff
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+#学生
+赵江华:
+    display_name: "赵江华"
+    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    role: doctor_student
+    bio: 2016级博士研究生(在职)
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
+王卫军:
+    display_name: "王卫军"
+    role: doctor_student
+    bio: 2017级博士研究生(在职)
 
-grad-c:
-    display_name: "Grad C"
-    role: grad
+吴章生:
+    display_name: "吴章生"
+    role: doctor_student
+    bio: 2017级博士研究生(在职)
 
-grad-d:
-    display_name: "Grad D"
-    role: grad
+ali:
+    display_name: "ali"
+    role: doctor_student
+    bio: 2018级博士研究生
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
+周小华:
+    display_name: "周小华"
+    role: doctor_student
+    bio: 2018级博士研究生(在职)
+蒲军:
+    display_name: "蒲军"
+    role: master student
+    bio: 2016级硕士研究生
 
-grad-f:
-    display_name: "Grad F"
-    role: grad
+陈天乐:
+    display_name: "陈天乐"
+    role: master student
+    bio: 2016级硕士研究生
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
+王玉龙:
+    display_name: "王玉龙"
+    role: master_student
+    bio: 2016级硕士研究生
 
-grad-h:
-    display_name: "Grad H"
-    role: grad
+赵子豪:
+    display_name: "赵子豪"
+    role: master_student
+    bio: 2017级硕士研究生
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
+乔子越:
+    display_name: "乔子越"
+    role: master_student
+    bio: 2017级硕士研究生
 
-alum-a:
-    display_name: "Alum A"
+郭世晨:
+    display_name: "郭世晨"
+    role: master_student
+    bio: 2017级硕士研究生
+
+#访问、实习学生
+#TODO
+
+#毕业生
+徐晓伟:
+    display_name: "徐晓伟"
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
+#合作者
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "傅衍杰"
     role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
