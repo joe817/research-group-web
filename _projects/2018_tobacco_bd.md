@@ -7,6 +7,7 @@ description: |
 people:
   - 沈志宏
   - 朱小杰
+  - 王华进
 
 layout: project
 last-updated: 2018-09-01

@@ -8,10 +8,7 @@ description: |
 
 people:
   - 杜一
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - 崔文娟
 
 layout: project
 last-updated: 2019-01-01

@@ -27,8 +27,8 @@ clean:
 	$(RM) -r _site _includes/pubs_conference.html
 	$(RM) -r _site _includes/pubs_patent.html
 
-DEPLOY_HOST ?= yourwebpage.com
-DEPLOY_PATH ?= www/
+DEPLOY_HOST ?= www.dviz.cn/sbdkg
+DEPLOY_PATH ?= 
 RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
 deploy: clean build

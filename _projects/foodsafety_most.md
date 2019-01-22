@@ -8,11 +8,10 @@ description: |
 
 people:
   - 杜一
-  - grad-b
-  - ugrad-c
+  - 崔文娟
+  - 王寒雪
 
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
 last-updated: 2018-04-11
 ---
 
