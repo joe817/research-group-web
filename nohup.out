@@ -721,3 +721,262 @@ Configuration file: /Users/yidu/dev/research-group-web/_config.yml
                     _data/people.yml
                     ...done in 0.154239 seconds.
                     
+      Regenerating: 4 file(s) changed at 2019-01-23 17:44:31
+                    nohup.out
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    _includes/pubs_journal.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 17:44:32
+                    _includes/pubs_conference.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:44:32
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    ...done in 0.169948 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2019-01-23 17:44:33
+                    _includes/pubs_patent.html
+                    nohup.out
+                    _includes/pubs_journal.html
+                    ...done in 0.146748 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 17:44:33
+                    _includes/pubs_journal.html
+                    ...done in 0.157746 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 17:47:36
+                    nohup.out
+                    ...done in 0.173802 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:48:44
+                    index.html
+                    nohup.out
+                    ...done in 0.169022 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:48:49
+                    index.html
+                    nohup.out
+                    ...done in 0.167095 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:49:24
+                    nohup.out
+                    publications.1.html
+                    ...done in 0.14583 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2019-01-23 17:49:34
+                    nohup.out
+                    about.html
+                    publications.1.html
+                    ...done in 0.167041 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:49:40
+                    about.html
+                    nohup.out
+                    ...done in 0.15897 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:49:50
+                    about.html
+                    nohup.out
+                    ...done in 0.150175 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:49:53
+                    about.html
+                    nohup.out
+                    ...done in 0.167183 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:50:09
+                    index.html
+                    nohup.out
+                    ...done in 0.188533 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:50:52
+                    about.html
+                    nohup.out
+                    ...done in 0.16944 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:51:04
+                    about.html
+                    nohup.out
+                    ...done in 0.147706 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:51:04
+                    about.html
+                    nohup.out
+                    ...done in 0.15901 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 17:51:05
+                    nohup.out
+                    ...done in 0.152526 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:51:22
+                    img/research.png
+                    img/rearch.png
+                    ...done in 0.166357 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:51:27
+                    about.html
+                    nohup.out
+                    ...done in 0.15236 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:52:22
+                    about.html
+                    nohup.out
+                    ...done in 0.17364 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:52:32
+                    about.html
+                    nohup.out
+                    ...done in 0.154617 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 17:52:32
+                    nohup.out
+                    ...done in 0.149327 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:54:12
+                    about.html
+                    nohup.out
+                    ...done in 0.203356 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 17:56:44
+                    about.html
+                    nohup.out
+                    ...done in 0.173081 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:27:27
+                    bib/pubs_journal.bib
+                    ...done in 0.339179 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:13
+                    bib/pubs_journal.bib
+                    ...done in 0.193145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:22
+                    bib/pubs_journal.bib
+                    ...done in 0.209082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:25
+                    bib/pubs_journal.bib
+                    ...done in 0.164223 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:32
+                    bib/pubs_journal.bib
+                    ...done in 0.163958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:36
+                    bib/pubs_journal.bib
+                    ...done in 0.154651 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:40
+                    bib/pubs_journal.bib
+                    ...done in 0.155913 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:43
+                    _includes/pubs_journal.html
+                    ...done in 0.153565 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:54
+                    bib/pubs_journal.bib
+                    ...done in 0.178872 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:28:56
+                    _includes/pubs_journal.html
+                    ...done in 0.153865 seconds.
+                    
+      Regenerating: 4 file(s) changed at 2019-01-23 18:29:06
+                    nohup.out
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    _includes/pubs_journal.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:07
+                    _includes/pubs_conference.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 18:29:07
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    ...done in 0.165948 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2019-01-23 18:29:07
+                    _includes/pubs_patent.html
+                    nohup.out
+                    _includes/pubs_journal.html
+                    ...done in 0.161599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:24
+                    bib/pubs_journal.bib
+                    ...done in 0.166007 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:36
+                    bib/pubs_journal.bib
+                    ...done in 0.169907 seconds.
+                    
+      Regenerating: 4 file(s) changed at 2019-01-23 18:29:39
+                    nohup.out
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    _includes/pubs_journal.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:40
+                    _includes/pubs_conference.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 18:29:40
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    ...done in 0.187923 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2019-01-23 18:29:40
+                    _includes/pubs_patent.html
+                    nohup.out
+                    _includes/pubs_journal.html
+                    ...done in 0.154459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:54
+                    bib/pubs_journal.bib
+                    ...done in 0.151023 seconds.
+                    
+      Regenerating: 4 file(s) changed at 2019-01-23 18:29:57
+                    nohup.out
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    _includes/pubs_journal.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_conference.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2019-01-23 18:29:59
+                    _includes/pubs_conference.html
+[31m  Liquid Exception: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in publications.html[0m
+[33m             Error: Could not locate the included file 'pubs_journal.html' in any of ["/Users/yidu/dev/research-group-web/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 2 file(s) changed at 2019-01-23 18:29:59
+                    _includes/pubs_conference.html
+                    _includes/pubs_patent.html
+                    ...done in 0.174176 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2019-01-23 18:29:59
+                    _includes/pubs_patent.html
+                    nohup.out
+                    _includes/pubs_journal.html
+                    ...done in 0.157743 seconds.
+                    
+make: *** [serve] Hangup: 1

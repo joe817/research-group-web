@@ -26,7 +26,21 @@ role(角色)、bio(简要描述)、github(github账号)
 编译及运行
 --------
 * 直接在项目目录下make,make serve 即可通过 127.0.0.0:5000访问该页面
+* make 时遇到如下问题，在scanner.py中修改编码
+~~~~
+ File "/Library/Python/2.7/site-packages/pybtex/scanner.py", line 85, in update_lineno
+    num_newlines = value.count("\n") + value.count("\r") - value.count("\r\n")
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+~~~~
 
+~~~~
+import sys  
+reload(sys)  
+sys.setdefaultencoding('utf8')
+~~~~
+
+
+note:scp -r /data/kgroup/* root@10.0.16.186:/opt/tomcat/webapps/ROOT/
 
 
 Research Group Web Site Template （原始说明文档）

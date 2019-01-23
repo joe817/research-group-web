@@ -23,7 +23,7 @@ build: _includes/pubs_conference.html _includes/pubs_patent.html  _includes/pubs
 SERVE_HOST ?= 127.0.0.1
 SERVE_PORT ?= 5000
 
-serve: _includes/pubs_conference.html _includes/pubs_patent.html _includes/pubs_journal
+serve: _includes/pubs_conference.html _includes/pubs_patent.html _includes/pubs_journal.html
 	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)
 
 clean:
