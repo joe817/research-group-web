@@ -4,7 +4,8 @@ title: 基于多源数据的食源性疾病实时预警技术体系研究
 notitle: false
 
 description: |
-  This project has a sweet logo!
+  大数据部参与的国家重点研发计划“食源性疾病监测、溯源与预警技术研究”项目，
+  杜一博士承担课题四“基于多源数据的食源性疾病实时预警技术体系研究”。
 
 people:
   - 杜一
@@ -15,13 +16,10 @@ layout: project
 last-updated: 2018-04-11
 ---
 
-Some preliminary text.
 
-## header
+## 主要研究内容
 
-Maecenas _scelerisque ut enim non convallis_. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
+研究基于本体的多层次标准化食品词库，通过动态语料库构建及自学习机制实现食品分类词库的动态更新；融合前置课题的数据成果，基于食源性疾病监测报告系统及国家食源性疾病溯源网络（TraNetChina）平台相关数据，研究多尺度、多粒度食源性疾病数据模型；根据病例分布特点，研究食源性疾病暴发模式，给出食源性疾病在不同时空约束下的流行特点，并为归因分析及预警提供特征知识；利用深度学习方法，研究食源性疾病归因模型及预警模型；在相关技术体系的研究基础上，利用大数据方法，研究并构建食源性疾病大数据分析和预警平台。
+
+## 研究成果
+TBA.

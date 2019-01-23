@@ -1,4 +1,35 @@
-Research Group Web Site Template
+中国科学院计算机网络信息中心大数据部科研团队学术主页
+================================
+
+添加/修改个人信息
+--------
+* 个人基本信息添加到 _data/people.yml 文件下，可添加display_name(显示姓名)、
+webpage(个人主页链接，如无可以在该工程下创建静态页面)、image(个人头像)、
+role(角色)、bio(简要描述)、github(github账号)
+* 个人图片添加到 img/people 目录下
+
+添加/修改项目信息
+--------
+* 项目信息在 _projects目录下，使用MarkDown语言进行编辑
+
+添加新闻、博客信息
+--------
+* 新闻、博客信息在_posts目录下，使用MarkDown语言进行编辑，
+包括长新闻、端新闻、图片新闻。新博客创建时，命名遵循 yyyy-mm-dd-name.md 的格式
+* TODO: 后续应将论文研读部分分类出来，单独展示
+
+添加/修改论文、专利等成果信息
+--------
+* 论文使用bib文件进行管理,修改直接编辑该文件
+* TODO:该项目对bib的解析比较苛刻，后续可能需要进行优化
+
+编译及运行
+--------
+* 直接在项目目录下make,make serve 即可通过 127.0.0.0:5000访问该页面
+
+
+
+Research Group Web Site Template （原始说明文档）
 ================================
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.

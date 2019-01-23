@@ -2,16 +2,17 @@
 title: 烟草科技知识图谱构建与应用
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  中国烟草总公司“烟草科研大数据”重大专项项目，构建烟草科研领域知识图谱。实现对烟草科技信息资源的整理、融合与深度挖掘，为烟草科研人员准确把握研究方向和提高科研活动效率提供支持。
 
 people:
   - 杜一
+  - 郑新章
   - 崔文娟
 
 layout: project
 last-updated: 2019-01-01
 ---
-## A Header
-TBA.
+## 项目摘要
+本项目以烟草科研行业数据和知识服务技术为主要研究对象，开展烟草科研知识加工、烟草科研大数据知识网络与烟草科研大数据画像等关键技术研究，实现烟草科研大数据知识画像，烟草科研知识图谱分析。基于关键技术研究成果梳理整合分布在行业不同科研系统中的科技信息资源，构建包含烟草科技项目、科技成果、论文、专利、科技政策、技术标准等烟草科技信息资源的知识网络，采用大数据技术研究烟草科技信息资源知识挖掘与分析方法，结合主流可视化方法，开发烟草科技信息资源知识服务系统。实现对烟草科技信息资源的整理、融合与深度挖掘，为烟草科研人员准确把握研究方向和提高科研活动效率提供支持。
+
+## 主要成果

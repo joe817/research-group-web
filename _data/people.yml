@@ -5,12 +5,12 @@
     webpage: "http://www.escience.cn/people/zyc/index.html"
     image: /img/people/zyc.JPG
     role: faculty
-    bio: 研究员，中科院网络信息中心主任助理，大数据部主任
+    bio: 研究员，中科院网络信息中心主任助理，大数据部主任。研究方向为大数据与数据挖掘
 
 沈志宏:
     display_name: "沈志宏"
     role: faculty
-    bio: 研究员，大数据部副主任
+    bio: 研究员，大数据部副主任。研究方向为大数据处理与分析技术
     webpage: "https://bluejoe2008.github.io"
     image: /img/people/shenzhihong.jpg
 
@@ -20,14 +20,14 @@
     image: /img/people/yidu.png
     github: yiducn
     role: faculty
-    bio: 副研究员
+    bio: 副研究员。研究兴趣为大规模时空数据可视分析、图数据挖掘（知识图谱）、人机交互技术
 
 #员工
 崔文娟:
     display_name: "崔文娟"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     role: staff
-    bio: 数据挖掘
+    bio: 研究兴趣为数据挖掘、生物信息学
 
 朱小杰:
     display_name: "朱小杰"
@@ -89,6 +89,26 @@
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 #合作者
-collab-a:
+傅衍杰:
     display_name: "傅衍杰"
+    role: collab
+
+唐杰:
+    display_name: "唐杰"
+    role: collab
+
+朱勇:
+    display_name: "朱勇"
+    role: collab
+
+刘德兵:
+    display_name: "刘德兵"
+    role: collab
+
+祝恒书:
+    display_name: "祝恒书"
+    role: collab
+
+郑新章:
+    display_name: "郑新章"
     role: collab
