@@ -22,24 +22,37 @@
     role: faculty
     bio: 副研究员。研究兴趣为大规模时空数据可视分析、图数据挖掘（知识图谱）、人机交互技术
 
-#员工
 崔文娟:
     display_name: "崔文娟"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    role: staff
+    role: faculty
     bio: 研究兴趣为数据挖掘、生物信息学
 
+常青玲:
+    display_name: "常青玲"
+    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    role: faculty
+    bio: 研究兴趣为数据挖掘
+
+#员工
 朱小杰:
     display_name: "朱小杰"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    role: staff
+    role: faculty
     bio: staff
 
 王华进:
     display_name: "王华进"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    role: staff
+    role: faculty
     bio: staff
+
+肖濛:
+    display_name: "肖濛"
+    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    role: faculty
+    bio: staff
+
 
 #学生
 吴章生:
@@ -80,13 +93,34 @@
     bio: 2018级硕士研究生
 
 #访问、实习学生
+
+
 #TODO
 
 #毕业生
 徐晓伟:
     display_name: "徐晓伟"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "2018届硕士研究生，就职于腾讯"
+
+#特聘专家
+熊辉:
+    display_name: "熊辉"
+    role: special_faculty
+    bio: "Rutgers University终身教授，大数据部首席咨询顾问"
+    webpage: "http://datamining.rutgers.edu/"
+
+李飞飞:
+    display_name: "李飞飞"
+    role: special_faculty
+    bio: "ACM Distinguished Scientist，达摩院数据库首席科学家，中科院网络信息中心特聘专家"
+
+祝恒书:
+    display_name: "祝恒书"
+    role: special_faculty
+    bio: "中科院网络信息中心特聘专家"
+    webpage: "http://www.zhuhengshu.com/"
+
 
 #合作者
 傅衍杰:
@@ -101,13 +135,6 @@
     display_name: "朱勇"
     role: collab
 
-刘德兵:
-    display_name: "刘德兵"
-    role: collab
-
-祝恒书:
-    display_name: "祝恒书"
-    role: collab
 
 郑新章:
     display_name: "郑新章"
