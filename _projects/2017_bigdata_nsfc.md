@@ -10,6 +10,7 @@ people:
   - 吴章生
   - 杜一
   - 朱小杰
+  - 肖濛
 
 layout: project
 last-updated: 2017-09-11
