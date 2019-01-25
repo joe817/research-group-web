@@ -50,9 +50,11 @@
 
 肖濛:
     display_name: "肖濛"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "https://blog.sha0w.pub/?page_id=8"
     role: faculty
-    bio: staff
+    bio: Rookie
+    image: /img/people/sha0w.jpg
+    github: coco11563
 
 
 #学生
