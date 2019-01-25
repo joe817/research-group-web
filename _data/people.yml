@@ -43,16 +43,18 @@
 
 王华进:
     display_name: "王华进"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "https://scholar.google.com/citations?user=1a-63-AAAAAJ&hl=en"
     image: /img/people/wanghj.jpg
     role: faculty
     bio: staff
 
 肖濛:
     display_name: "肖濛"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "https://cv.sha0w.pub"
     role: faculty
-    bio: staff
+    bio: Rookie
+    image: /img/people/sha0w.jpg
+    github: coco11563
 
 
 #学生
