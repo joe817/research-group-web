@@ -44,6 +44,7 @@
 王华进:
     display_name: "王华进"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    image: /img/people/wanghj.jpg
     role: faculty
     bio: staff
 
