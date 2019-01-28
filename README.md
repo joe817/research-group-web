@@ -41,6 +41,7 @@ sys.setdefaultencoding('utf8')
 
 
 note:scp -r /data/kgroup/* root@10.0.16.186:/opt/tomcat/webapps/ROOT/
+note:cd /opt/tomcat/webapps/test_ROOT && rm -rf research-group-web && git clone https://github.com/cas-bigdatalab/research-group-web.git && cd research-group-web && make && rm -rf /opt/tomcat/webapps/ROOT/* && mv _site/* /opt/tomcat/webapps/ROOT/
 
 
 Research Group Web Site Template （原始说明文档）
