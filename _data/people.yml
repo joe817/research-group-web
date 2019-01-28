@@ -36,6 +36,8 @@
 #员工
 朱小杰:
     display_name: "朱小杰"
+    webpage: "https://judy0131.github.io"
+    image: /img/people/zhuxiaojie.png
     role: faculty
     bio: staff
 
