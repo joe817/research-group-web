@@ -31,8 +31,8 @@ title: 产品与工具
             PiDB
         </div>
         <div class="card-body">
-            <h5 class="card-title">PiDB</h5>
-            <p class="card-text">TBA。 </p>
+            <p class="card-text">基于属性图模型的数据融合管理工具，引入了Blob存储和Ai算法，将图片、录音等非结构化数据作为属性存储在图中。实现了知识图谱对非结构化数据存储的支持，并可以从非结构化数据中抽取信息，参与图谱的查询。丰富了知识图谱的功能。
+其中将Ai处理部分抽象为AiPM模块，通过Docker将各种Ai算法的依赖屏蔽，用户可以通过图查询语言直接检索非结构化数据中的信息。</p>
             <a href="https://github.com/cas-bigdatalab/pidb-engine"> Fork on Github.</a>
         </div>
     </div>
