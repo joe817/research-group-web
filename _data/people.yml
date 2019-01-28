@@ -25,7 +25,7 @@
 崔文娟:
     display_name: "崔文娟"
     role: faculty
-    image:/img/people/wenjuancui.png
+    image: /img/people/wenjuancui.png
     bio: 研究兴趣为数据挖掘、生物信息学
 
 常青玲:
