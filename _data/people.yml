@@ -112,17 +112,20 @@
     role: special_faculty
     bio: "Rutgers University终身教授，大数据部首席咨询顾问"
     webpage: "http://datamining.rutgers.edu/"
+    image: /img/people/huixiong.png
 
 李飞飞:
     display_name: "李飞飞"
     role: special_faculty
     bio: "ACM Distinguished Scientist，达摩院数据库首席科学家，中科院网络信息中心特聘专家"
+    image: /img/people/feifeili.png
 
 祝恒书:
     display_name: "祝恒书"
     role: special_faculty
     bio: "中科院网络信息中心特聘专家"
     webpage: "http://www.zhuhengshu.com/"
+    image: /img/people/hengshuzhu.png
 
 
 #合作者
