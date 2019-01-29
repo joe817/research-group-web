@@ -20,7 +20,7 @@ title: 产品与工具
             Rabbit
         </div>
         <div class="card-body">
-            <p class="card-text">TBA。</p>
+            <p class="card-text">Rabbit, inspired by the "serverless" trend in cloud computing and big data processing, has the ambitions to bridge the IaaS to Apache Ambari seamlessly and coordinate Ambari Services into a high-level data management workspace.</p>
             <a href="https://github.com/cas-bigdatalab/rabbit"> Fork on Github.</a>
         </div>
     </div>
