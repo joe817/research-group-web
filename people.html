@@ -1,0 +1,33 @@
+---
+layout: default
+title: 人员
+
+picture-role-groups:
+- {roles: [faculty, postdoc], width: 6}
+- {roles: [special_faculty, collab], width: 6}
+
+
+no-picture-role-groups:
+- {roles: [doctor_student, master_student], width: 5}
+- {roles: [alum], width: 7}
+---
+
+<section class="people row justify-content-between">
+    {% for role-group in page.picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-people.html role=role image=true %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>
+
+<section class="people row justify-content-between">
+    {% for role-group in page.no-picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-people.html role=role image=false %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>
